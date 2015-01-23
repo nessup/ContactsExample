@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/classes-fd9032ed75229b1c537bb315fa588e0ccb28d208.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/code/android/adt-bundle/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8df2bf515efcbad721dd220d2e19f494dfd52930.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/code/android/android-samples/ContactsExample/app/libs/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-4318d03061b8bfe05c6a6666d97d0e40bf7771ad.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/code/android/android-samples/ContactsExample/app/libs/okio-1.0.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/okio-1.0.1-86ce5a9e191b0f379ba55f7a97b44046e21fdb37.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/classes-22ecacd006ff50a56401be94b7d40517e75359a2.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.0.5/965d5fbe58feeb131f0f5bfa26657b593db83359/androidasync-2.0.5.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="965d5fbe58feeb131f0f5bfa26657b593db83359">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/androidasync-2.0.5-2ea09fd0210a670a7e2c927797df410eecc2722a.jar" />
+    </item>
+    <item
+        jar="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/aaron/code/android/android-samples/ContactsExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-31876abd801a1a2b90931ec4dc3d5bbd0055994c.jar" />
+    </item>
+
+</items>
